@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Avraham Kurtseitov
+- 👀 I’m interested in helping to Pets.
+- 🌱 I’m currently learning Complex Java.
+- 💞️ I’m looking to collaborate on Spring Projects.
+- 📫 How to reach me : 053-725-8350
