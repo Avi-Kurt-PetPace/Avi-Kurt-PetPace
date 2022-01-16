@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Avraham Kurtseitov
+- 👋 Hi, I’m Avi Kurt.
 - 👀 I’m interested in helping to Pets.
 - 🌱 I’m currently learning Complex Java.
 - 💞️ I’m looking to collaborate on Spring Projects.
