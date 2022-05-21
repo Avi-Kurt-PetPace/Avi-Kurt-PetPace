@@ -2,4 +2,4 @@
 - 👀 I’m interested in helping to Pets.
 - 🌱 I’m currently learning Complex Java.
 - 💞️ I’m looking to collaborate on Spring Projects.
-- 📫 How to reach me : 053-725-8350
+- 📫 How to reach me : 053-725-8350 / avi.kurt@petpace.com
